@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+gunicorn
+librosa
+numpy
+scipy
+soundfile
